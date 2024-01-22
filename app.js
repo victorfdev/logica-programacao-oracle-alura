@@ -23,3 +23,5 @@ if (chute == numeroSecreto) {
     tentativas++; // Então, sempre que quiser pegar o valor de uma variável, somar, atribuir um, incrementar um, que é o nome que utilizamos, utilizamos 'tentativas++'
 }
 }
+
+
